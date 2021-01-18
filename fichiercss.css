@@ -1,0 +1,15 @@
+body{
+  font-family: mv boli,centry gothic,sans-serif;
+}
+nav{
+  background-color:#0000ff;
+  width:270px;
+}
+header{
+  text-align:left;
+  background-color: #0000ff;
+  width:100%;
+}
+a:hover{
+  color:black;
+}

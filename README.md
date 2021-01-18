@@ -1,0 +1,2 @@
+# projectssmi
+platform SMI
